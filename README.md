@@ -1,3 +1,5 @@
 # Cheat Sheet | برگه تقلب
 
-[Docker Compose](docker-compose/README.md)
+در این ریپوزیتوری تکه کد های مورد نیاز هر برنامه نویس و یا طراح زیر ساخت به عنوان برگه تقلب قرار میگیرد.
+
+[Applications](apps/README.md)

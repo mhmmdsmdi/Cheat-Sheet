@@ -1,3 +1,14 @@
+# Passbolt - Open source password manager for teams
+
+## Information
+
+[Github](https://github.com/passbolt/passbolt_api)
+
+## Installation
+
+### Docker Compose
+
+```yaml
 version: "3"
 services:
 
@@ -30,3 +41,4 @@ services:
 
 volumes:
   db-data:
+```
