@@ -4,4 +4,4 @@
 
 [Portainer](portainer.md) | ابزاری برای مدیریت داکر و کوبرنیتیز
 
-[OpenKM](openkm-cd.md) | ابزاری مدیریت دانش و اسناد
+[OpenKM](openkm-ce.md) | ابزاری مدیریت دانش و اسناد
