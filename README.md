@@ -15,3 +15,7 @@
 ## Misc
 
 [MarkDown supported languages](other/markdown.md)
+
+## Additional links
+
+- [Keep A Changelog](https://keepachangelog.com) | How to make a good changelog for each version
