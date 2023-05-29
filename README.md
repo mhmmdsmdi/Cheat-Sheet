@@ -10,7 +10,11 @@
 
 ## Programming
 
-[C# design patterns](design-patterns/README.md)
+- [C# design patterns](design-patterns/README.md)
+
+Additional Links:
+
+- [How to Start an Advanced .NET Project](https://medium.com/@mohsen_rajabi/how-to-start-a-net-project-in-2023-96bdb615a98d)
 
 ## Misc
 
