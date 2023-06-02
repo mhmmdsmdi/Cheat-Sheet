@@ -6,7 +6,9 @@
 
 [Applications](apps/README.md)
 
-[Docker commands](docker/commands.md)
+[Docker commands](commands/docker.md)
+
+[Git commands](commands/git.md)
 
 ## Programming
 
