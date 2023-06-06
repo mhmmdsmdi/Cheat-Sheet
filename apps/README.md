@@ -22,3 +22,4 @@
 
 [NextCloud](nextcloud.md) | The most popular on-premises content collaboration platform you can download
 
+[Pi-hole](pihole.md) | In addition to blocking advertisements, Pi-hole has an informative Web interface that shows stats on all the domains being queried on your network
