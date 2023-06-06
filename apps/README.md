@@ -19,3 +19,6 @@
 [Grafana](grafana.md) | The open source analytics & monitoring solution for every database
 
 [Prometheus](prometheus.md) | An open-source monitoring system
+
+[NextCloud](nextcloud.md) | The most popular on-premises content collaboration platform you can download
+
