@@ -1,14 +1,4 @@
-# Cheat Sheet | برگه تقلب
-
-در این ریپوزیتوری تکه کد های مورد نیاز هر برنامه نویس و یا طراح زیر ساخت به عنوان برگه تقلب قرار میگیرد.
-
-## DevOps
-
-[Applications](apps/README.md)
-
-[Docker commands](commands/docker.md)
-
-[Git commands](commands/git.md)
+# Cheat Sheet
 
 ## Programming
 
@@ -17,6 +7,8 @@ Additional Links:
 - [How to Start an Advanced .NET Project](https://medium.com/@mohsen_rajabi/how-to-start-a-net-project-in-2023-96bdb615a98d)
 
 ## Misc
+
+[Git Commands](commands/git.md)
 
 [MarkDown supported languages](other/markdown.md)
 
