@@ -15,3 +15,5 @@
 [MariaDB](mariadb.md) | One of the most popular open source relational databases
 
 [Heimdall](heimdall.md) | An elegant solution to organise all your web applications
+
+[Grafana](grafana.md) | The open source analytics & monitoring solution for every database
