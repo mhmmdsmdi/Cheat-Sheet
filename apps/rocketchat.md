@@ -4,7 +4,7 @@
 
 Docker compose:
 
-```docker
+```yaml
 volumes:
   mongodb_data: { driver: local }
 

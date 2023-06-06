@@ -15,3 +15,25 @@ docker run -d -p 8000:8000 -p 9443:9443 --name portainer --restart=always -v /va
 ```
 
 Lunch at [https://localhost:9443](https://localhost:9443)
+
+Or use this docker compose:
+
+```yaml
+
+volumes:
+  portainer-data:
+    driver: local
+services:
+  app:
+    container_name: portainer
+    image: portainer/portainer-ce:latest
+    ports:
+      - 9000:9000
+      - 9443:9443
+      - 8000:8000
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - portainer-data:/data
+    restart: unless-stopped
+
+```
