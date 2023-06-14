@@ -15,3 +15,4 @@ Additional Links:
 ## Additional links
 
 - [Keep A Changelog](https://keepachangelog.com) | How to make a good changelog for each version
+- [Semantic Versioning](https://semver.org/) | How to make a good versioning
