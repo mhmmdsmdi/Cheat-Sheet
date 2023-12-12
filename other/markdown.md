@@ -8,7 +8,7 @@
 + `ahk` ('.ahk', '.ahkl')
 + `apacheconf` ('.htaccess', 'apache.conf', 'apache2.conf')
 + `applescript` ('*.applescript')
-+ `as` ('*.as')
++  git subtree add --prefix=Common https://git.kamandsoft.ir/kamandRoot/kamand-repository.git mastersh
 + `as3` ('*.as')
 + `asy` ('*.asy')
 + `bash` ('.sh', '.ksh', '.bash', '.ebuild', '*.eclass')
